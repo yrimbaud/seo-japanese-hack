@@ -5,7 +5,26 @@ This guide outlines a process to help identify and remove all URLs listed by Goo
 
 This process is specifically designed to address the "Japanese Keyword Hack," a type of SEO spam where hackers inject pages with Japanese text onto a website in order to manipulate search engine rankings. 
 
-## Steps
+## What is the "Japanese Keyword Hack"?
+
+The "Japanese Keyword Hack" is a type of SEO (Search Engine Optimization) attack often perpetrated against websites with weaker security. The hacker injects a large amount of pages filled with irrelevant, typically Japanese, keywords and links into a vulnerable website.
+
+This attacks has 2 purposes:
+
+- Manipulate search engine rankings: the newly created pages are typically filled with links to the hacker's website and use popular or high-traffic keywords to trick search engine algorithms. These pages might appear in the search results, driving unsuspecting traffic towards the hacker's sites.
+
+- Execute Phishing attacks or Malware: users may click on a legitimate-looking link, only to be directed to a page that has been hacked. From there, they could be tricked into giving away sensitive information or downloading malicious software.
+
+## Symptoms of the "Japanese Keyword Hack"?
+
+Victims of the "Japanese Keyword Hack" might notice:
+- a sudden drop in website traffic
+- an unusual influx of traffic to specific pages filled with unfamiliar content
+- a large amount of pages with Japanese caracters on Google Search results
+
+If the website has been linked to the Google Search Console, the website owner will receive email warning alerts.
+
+## Steps to remove the malware from Google Search
 
 **Step 1: Retrieve all indexed pages by Google for your website**
 
