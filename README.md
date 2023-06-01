@@ -52,10 +52,6 @@ After submitting your URLs, Google may take some time to process your request.
 While this process helps to remove maliciously injected Japanese keywords, it does not address the underlying security vulnerability that allowed the hack to occur.
 We recommend conducting a thorough security audit of your website to identify and resolve the root cause of the issue.
 
-## Limitations
-
-This process is specifically designed for the Japanese Keyword Hack. It may not be effective against other forms of SEO spam or hacking attempts. Additionally, it relies on Google Search Console, and therefore can only address URLs that have been indexed by Google.
-
 ## Author
 
 This guide was created by Yann Rimbaud [@yrimbaud](https://github.com/yrimbaud/).
